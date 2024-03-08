@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bioxinyu
+- 👋 Hi, I’m @Xinyu Zhu/June 
 - 👀 I’m interested in bioinformatics
 - 🌱 I’m currently learning bioinformatics
 - 💞️ I’m looking to collaborate on ...
